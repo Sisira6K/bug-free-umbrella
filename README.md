@@ -4,8 +4,8 @@
 In this course ,you will learn how to use GitHub successfully.
 
 ### The Basics
--Understand the use of github
--Create repositories
--Work with Git and GITHUB Locally
--Create and work with issues
--Create a wiki and Github Page
+- Understand the use of github
+- Create repositories
+- Work with Git and GITHUB Locally
+- Create and work with issues
+- Create a wiki and Github Page
